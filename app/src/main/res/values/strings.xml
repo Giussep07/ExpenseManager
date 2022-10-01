@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Expense Manager</string>
+    <string name="monthly_income_title">Necesitamos conocer tu ingreso mensual</string>
+    <string name="monthly_income">Ingreso mensual</string>
+    <string name="start">Empezar</string>
+    <string name="giussep_ricardo_cachaya">Giussep Ricardo Cachaya</string>
 </resources>
